@@ -1,0 +1,23 @@
+/***** MAX-WIDTH: 768px *****/
+@media (max-width: 768px) {
+  .header-logo {
+    display: block;
+    padding: calc(4vh + 1rem) calc(6vw + 1rem);
+  }
+
+  main {
+    display: block;
+  }
+
+  .logo {
+    display: none;
+  }
+
+  .hero-text h1 {
+    text-align: center;
+  }
+
+  .hero-text p {
+    text-align: center;
+  }
+}
